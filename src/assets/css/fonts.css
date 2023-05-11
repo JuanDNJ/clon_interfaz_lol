@@ -1,0 +1,193 @@
+@import url("https://fonts.googleapis.com/css2?family=Anek+Gurmukhi:wght@400;600&family=Anton&family=Archivo+Black&family=Bitter:ital,wght@1,600&family=Cookie&family=Dancing+Script:wght@600&family=Lobster&family=Mochiy+Pop+P+One&family=Montserrat:ital,wght@1,300&family=Parisienne&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,400;1,700&family=Rubik+Moonrocks&family=Rubik+Puddles&family=Rubik+Wet+Paint&family=Ubuntu:wght@300&display=swap");
+
+@font-face {
+    font-family: Asthan;
+    src: url("fonts/titles/Asthan.otf") format("opentype"), url("fonts/titles/Asthan.ttf") format("true-type");
+    font-display: swap;
+}
+@font-face {
+    font-family: Austein;
+    src: url("fonts/titles/Austein.woff2") format("woff2"), url("fonts/titles/Austein-script.woff") format("woff"),
+        url("fonts/titles/Austein.ttf") format("true-type");
+    font-display: swap;
+}
+@font-face {
+    font-family: BalloreGrayson;
+    src: url("fonts/titles/BalloreGrayson.ttf") format("true-type"),
+        url("fonts/titles/BalloreGrayson.otf") format("opentype");
+    font-display: swap;
+}
+@font-face {
+    font-family: Braunschweig;
+    src: url("fonts/titles/Braunschweig.ttf") format("true-type");
+    font-display: swap;
+}
+@font-face {
+    font-family: "Brigada Salvaje";
+    src: url("fonts/titles/BrigadaSalvaje.ttf") format("true-type"),
+        url("fonts/titles/BrigadaSalvaje.otf") format("opentype");
+    font-display: swap;
+}
+@font-face {
+    font-family: "Brotherhood Brush";
+    src: url("fonts/titles/Brotherhood Brush.ttf") format("true-type"),
+        url("fonts/titles/Brotherhood Brush.otf") format("opentype");
+    font-display: swap;
+}
+@font-face {
+    font-family: "Sephia Signature";
+    src: url("fonts/titles/SephiaSignature.otf") format("openType");
+    font-display: swap;
+}
+@font-face {
+    font-family: World77minidraws;
+    src: url("fonts/titles/World77minidraws.ttf") format("true-type"),
+        url("fonts/titles/World77minidraws.otf") format("opentype"),
+        url("fonts/titles/World77minidraws.woff2") format("woff2");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Sports Bar";
+    src: url("fonts/titles/Sports Bar.otf") format("openType");
+    font-display: swap;
+}
+@font-face {
+    font-family: SephiaSignature;
+    src: url("fonts/titles/SephiaSignature.otf") format("openType");
+    font-display: swap;
+}
+@font-face {
+    font-family: Redemption;
+    src: url("fonts/titles/Redemption.ttf") format("true-type"), url("fonts/titles/Redemption.otf") format("openType");
+    font-display: swap;
+}
+@font-face {
+    font-family: Redemption-Italic;
+    src: url("fonts/titles/Redemption-Italic.ttf") format("true-type"),
+        url("fonts/titles/Redemption-Italic.otf") format("openType");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Pirate of the Seaside";
+    src: url("fonts/titles/Pirate of the Seaside.ttf") format("true-type"),
+        url("fonts/titles/Pirate of the Seaside.otf") format("openType");
+    font-display: swap;
+}
+@font-face {
+    font-family: "Pirate of the Seaside Bubbles";
+    src: url("fonts/titles/Pirate of the Seaside Bubbles.ttf") format("true-type"),
+        url("fonts/titles/Pirate of the Seaside Bubbles.otf") format("openType");
+    font-display: swap;
+}
+@font-face {
+    font-family: PinkmatteRegular;
+    src: url("fonts/titles/PinkmatteRegular.ttf") format("true-type"),
+        url("fonts/titles/Pinkmatte.otf") format("openType");
+    font-display: swap;
+}
+@font-face {
+    font-family: "National Hero!";
+    src: url("fonts/titles/National Hero!.otf") format("openType");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: LovelyMonolineRegular;
+    src: url("fonts/titles/LovelyMonolineRegular.ttf") format("true-type"),
+        url("fonts/titles/LovelyMonoline.otf") format("openType");
+    font-display: swap;
+}
+@font-face {
+    font-family: "Hummer Miller Demo";
+    src: url("fonts/titles/Hummer Miller Demo.otf") format("openType");
+    font-display: swap;
+}
+@font-face {
+    font-family: HaveFun;
+    src: url("fonts/titles/HaveFun.ttf") format("true-type"), url("fonts/titles/HaveFun.otf") format("openType");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: CheetatosDemoRegular;
+    src: url("fonts/titles/CheetatosDemoRegular.ttf") format("true-type"),
+        url("fonts/titles/CheetatosDemoRegular.otf") format("openType");
+    font-display: swap;
+}
+@font-face {
+    font-family: MaterialIcons-Regular;
+    src: url("fonts/material-icons/MaterialIcons-Regular.ttf") format("true-type"),
+        url("fonts/titles/MaterialIcons-Regular.otf") format("openType");
+    font-display: swap;
+}
+@font-face {
+    font-family: MaterialIconsOutlined-Regular;
+    src: url("fonts/material-icons/MaterialIconsOutlined-Regular.ttf") format("true-type"),
+        url("fonts/material-icons/MaterialIconsOutlined-Regular.otf") format("openType");
+    font-display: swap;
+}
+@font-face {
+    font-family: MaterialIconsSharp-Regular;
+    src: url("fonts/material-icons/MaterialIconsSharp-Regular.ttf") format("true-type"),
+        url("fonts/material-icons/MaterialIconsSharp-Regular.otf") format("openType");
+    font-display: swap;
+}
+@font-face {
+    font-family: MaterialIconsTwoTone-Regular;
+    src: url("fonts/material-icons/MaterialIconsTwoTone-Regular.ttf") format("true-type"),
+        url("fonts/material-icons/MaterialIconsTwoTone-Regular.otf") format("openType");
+    font-display: swap;
+}
+@font-face {
+    font-family: "Social Logos";
+    src: url("fonts/social_network/Social Logos.woff2") format("woff2"),
+        url("fonts/social_network/Social Logos.ttf") format("true-type"),
+        url("fonts/social_network/Social Logos.otf") format("openType");
+    font-display: swap;
+}
+/* 
+font-family: MaterialIcons-Regular; 
+font-family: MaterialIconsOutlined-Regular;
+font-family: MaterialIconsSharp-Regular;
+font-family: MaterialIconsTwoTone-Regular;
+font-family: Asthan;
+font-family: Austein;
+font-family: "Sephia Signature";
+font-family: "Sports Bar";
+font-family: SephiaSignature;
+font-family: PinkmatteRegular;
+font-family: "National Hero!";
+font-family: LovelyMonolineRegular;
+font-family: "Hummer Miller Demo";
+font-family: BalloreGrayson;
+font-family: Braunschweig; Muy fea
+font-family: "Brigada Salvaje"; sin accentos
+font-family: "Brotherhood Brush"; Muy chula
+font-family: World77minidraws; Solo signos
+font-family: Redemption; Acentos muy feos
+font-family: "Pirate of the Seaside"; Muy chula
+font-family: "Pirate of the Seaside Bubbles"; Muy chula
+font-family: HaveFun;
+font-family: CheetatosDemoRegular;  Uso solo personal
+font-family: "Social Logos"; 
++++++++++++++++++++++++ Google Fonts +++++++++++++++++++++
+
+font-family: 'Anek Gurmukhi', sans-serif;
+font-family: 'Anton', sans-serif;
+font-family: 'Archivo Black', sans-serif;
+font-family: 'Bitter', serif;
+font-family: 'Cookie', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Mochiy Pop P One', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Parisienne', cursive;
+font-family: 'Playfair Display SC', serif;
+font-family: 'Rubik Moonrocks', cursive;
+font-family: 'Rubik Puddles', cursive;
+font-family: 'Rubik Wet Paint', cursive;
+font-family: 'Ubuntu', sans-serif; 
+
+*/

@@ -1,0 +1,56 @@
+@import url("./material-icons.css");
+@import url("./paleta-colores.css");
+@import url("./fonts.css");
+/*
+font-family: MaterialIcons-Regular;
+font-family: MaterialIconsOutlined-Regular;
+font-family: MaterialIconsSharp-Regular;
+font-family: MaterialIconsTwoTone-Regular;
+font-family: Asthan;
+font-family: Austein;
+font-family: "Sephia Signature";
+font-family: "Sports Bar";
+font-family: SephiaSignature;
+font-family: PinkmatteRegular;
+font-family: "National Hero!";
+font-family: LovelyMonolineRegular;
+font-family: "Hummer Miller Demo";
+font-family: BalloreGrayson;
+font-family: Braunschweig; Muy fea
+font-family: "Brigada Salvaje"; sin accentos
+font-family: "Brotherhood Brush"; Muy chula
+font-family: World77minidraws; Solo signos
+font-family: Redemption; Acentos muy feos
+font-family: "Pirate of the Seaside"; Muy chula
+font-family: "Pirate of the Seaside Bubbles"; Muy chula
+font-family: HaveFun;
+font-family: CheetatosDemoRegular;  Uso solo personal
+font-family: "Social Logos";
++++++++++++++++++++++++ Google Fonts +++++++++++++++++++++
+
+font-family: 'Anek Gurmukhi', sans-serif;
+font-family: 'Anton', sans-serif;
+font-family: 'Archivo Black', sans-serif;
+font-family: 'Bitter', serif;
+font-family: 'Cookie', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Mochiy Pop P One', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Parisienne', cursive;
+font-family: 'Playfair Display SC', serif;
+font-family: 'Rubik Moonrocks', cursive;
+font-family: 'Rubik Puddles', cursive;
+font-family: 'Rubik Wet Paint', cursive;
+font-family: 'Ubuntu', sans-serif;
+
+*/
+:root {
+	--max-width-template: 1280px;
+	--max-height-header: 120px;
+	--color-primary: #00bcd4;
+	--font-family-primary: "Pirate of the Seaside Bubbles";
+	--font-family-secondary: "Lobster", cursive;
+	--font-family-tertiary: Redemption;
+	--padding: 16px;
+}

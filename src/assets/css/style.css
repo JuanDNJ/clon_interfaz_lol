@@ -1,0 +1,55 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+	scrollbar-color: rgba(0, 0, 0, 0.26) #3c3c3c;
+	scrollbar-width: none;
+}
+::-webkit-scrollbar {
+	width: 0;
+}
+::-webkit-scrollbar-button {
+	width: 5px;
+	height: 5px;
+	background-color: #3c3c3c;
+}
+
+::-webkit-scrollbar-thumb {
+	background-color: rgba(0, 0, 0, 0.26);
+}
+::-webkit-scrollbar-track {
+	background-color: rgb(8, 0, 255);
+}
+::-webkit-scrollbar-track-piece {
+	background-color: #3c3c3c;
+}
+html,
+body {
+	font-family: var(--font-family-secondary);
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-size: 12px;
+	width: 100vw;
+	letter-spacing: 1.2px;
+}
+body {
+	margin: 0;
+	overflow-x: hidden;
+	background-color: #333;
+	font-weight: normal;
+
+	color: #787973;
+	height: 100vw;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.main_title {
+	font-size: 3rem;
+	width: 100%;
+	text-align: center;
+	color: white;
+	margin: 60px auto;
+}
+/* MARKS  */

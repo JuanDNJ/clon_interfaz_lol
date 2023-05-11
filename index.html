@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link rel="shortcut icon" sizes="16x16 24x24 32x32 48x48 64x64" href="/images/favicon.png">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<title>Experimentos 3</title>
+
+</head>
+
+<body>
+
+	<link href="/css/interface.css" rel="stylesheet">
+	<main class="interface">
+		<header class="top">
+			<section class="item_top start">
+				<div class="play">
+					<span class="icon_lol">
+						<img src="images/pngegg.png" alt="">
+					</span>
+					<button class="btn_play"> <a class="link " href="/"> Jugar</a></button>
+				</div>
+			</section>
+			<nav class="item_top navigation">
+				<int-menu id="info">
+					<ul slot="default">
+						<li class="item_menu">
+							<a class="link page_link" data-page="inicio" href="/">INICIO</a>
+						</li>
+						<li class="item_menu">
+							<a class="link page_link" data-page="tft" href="/tft">TFT</a>
+						</li>
+						<li class="item_menu">
+							<a class="link page_link" data-page="clash" href="/clash">CLASH</a>
+						</li>
+					</ul>
+				</int-menu>
+				<int-menu id="user">
+					<ul slot="default">
+						<li class="item_menu">
+							<a class="link" data-page="perfil" href="/perfil">
+								<i class="fa-solid fa-user fa-2x"></i>
+								<span class="name_page">Perfil</span>
+							</a>
+						</li>
+						<li class="item_menu">
+							<a class="link" data-page="coleccion" href="/coleccion">
+								<i class="fa-solid fa-bag-shopping fa-2x"></i>
+								<span class="name_page">Coleccion</span>
+							</a>
+						</li>
+						<li class="item_menu">
+							<a class="link" data-page="objetos" href="/objetos">
+								<i class="fa-solid fa-object-group fa-2x"></i>
+								<span class="name_page">Objetos</span>
+							</a>
+						</li>
+						<li class="item_menu">
+							<a class="link" data-page="tienda" href="/tienda">
+								<i class="fa-solid fa-coins fa-2x"></i>
+								<span class="name_page">Tienda</span>
+							</a>
+						</li>
+					</ul>
+				</int-menu>
+			</nav>
+			<section class="item_top state_rpoints_eblue">
+				<i class="separator"></i>
+				<span class="item_state_rpoints_eblue">
+					<span title="Riot Points"><i class="riot_points" title="Riot Points">R</i> 20</span>
+					<span title="Esencias Azules"><i class="esencias_azules" title="Esencias Azules">EA</i> 173k</span>
+				</span>
+			</section>
+			<section class="item_top state">
+				<article class="state-user">
+					<int-user name="Pimpo Bolson">
+						<i slot="icon_notification" class="fa-solid fa-bell "></i>
+					</int-user>
+				</article>
+			</section>
+		</header>
+		<section class="content">
+			<section class="item_content window_view">
+
+			</section>
+			<aside class="item_content bar">
+				<section class="bar_item toolbar social">Social</section>
+				<article class="bar_item amigos">
+					<div class="amigo">Amigo 1</div>
+					<div class="amigo">Amigo 2</div>
+					<div class="amigo">Amigo 3</div>
+					<div class="amigo">Amigo 4</div>
+					<div class="amigo">Amigo 5</div>
+					<div class="amigo">Amigo 6</div>
+				</article>
+				<section class="bar_item toolbar options">
+					<button class="icon">Mensajes</button>
+					<button class="icon">Misiones</button>
+					<button class="icon">Audio</button>
+					<span class="icon">Version Juego V12.7</span>
+					<button class="icon">Enviar Informe</button>
+				</section>
+			</aside>
+		</section>
+	</main>
+	<sprite-svg></sprite-svg> <!-- Sprite SVG -->
+	<!-- Scripts and inits documents -->
+	<script type="module" src="/src/main.ts"></script>
+	<script src="https://kit.fontawesome.com/f04029a98f.js" crossorigin="anonymous"></script>
+</body>
+
+</html>

@@ -1,0 +1,42 @@
+:root{
+
+    --color-dark: rgb(55, 55, 55);;
+    --color-dark-2: rgb(94, 94, 94);
+    --color-dark-3: rgb(136, 136, 136);
+
+    --color-light: #fff;
+    --color-light-2: rgb(227, 227, 227);
+    --color-light-3: rgb(211, 210, 210);
+    
+    --color-red: rgb(255, 0, 0);
+    --color-red-2: rgb(215, 0, 0);
+    --color-red-3: rgb(175, 0, 0);
+
+    --color-green: rgb(0, 255, 81);
+    --color-green-2: rgb(0, 226, 72);
+    --color-green-3: rgb(0, 183, 58);
+
+    --color-blue: rgb(0, 255, 255);
+    --color-blue-2: rgb(0, 222, 222);
+    --color-blue-3: rgb(0, 174, 174);
+
+    --color-yellow: rgb(255, 255, 0);
+    --color-yellow-2: rgb(224, 224, 0);
+    --color-yellow-3: rgb(191, 191, 0);
+
+    --color-orange: rgb(255, 77, 0);
+    --color-orange-2: rgb(221, 66, 0);
+    --color-orange-3: rgb(177, 54, 1);
+
+    --color-salmon: salmon;
+    --color-salmon-2: rgb(228, 118, 106);
+    --color-salmon-3: rgb(204, 107, 96);
+
+    --color-pink: pink;
+    --color-pink-2: rgb(255, 173, 187);
+    --color-pink-3: rgb(255, 149, 167);
+
+    --color-maroon: maroon;
+    --color-maroon-2: rgb(130, 16, 16);
+    --color-maroon-3: rgb(96, 21, 21);;
+}
